@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512201238006",
+    "project_id": "photocollections-45004",
+    "storage_bucket": "photocollections-45004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512201238006:android:9f532423f07247e44653d7",
+        "android_client_info": {
+          "package_name": "com.example.photocollections"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZDJAazqWJdumIbsPCgb6d47BsfFIsQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
