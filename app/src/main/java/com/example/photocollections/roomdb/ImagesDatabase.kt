@@ -5,7 +5,10 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import com.example.photocollections.model.Images
+import dagger.hilt.InstallIn
+import dagger.hilt.components.SingletonComponent
 
+@InstallIn(SingletonComponent::class)
 @Database(entities = [Images::class], version = 1, exportSchema = false)
 abstract class ImagesDatabase : RoomDatabase()  {
 
